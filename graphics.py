@@ -15,7 +15,7 @@ from crypto import get_currency_data_for_graph
 /metals
 /currency
 /crypt
-/help
+/help 
 """
 
 """
