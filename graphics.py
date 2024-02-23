@@ -8,8 +8,6 @@ from metal_parser import get_metals_data
 from currency_parser import get_currency_data
 from crypto import get_currency_data_for_graph
 
-# TODO: строить график с определённым шагом учитывая выбранный металл или дать пользователь самому выбрать
-
 
 """
 команды бота:
