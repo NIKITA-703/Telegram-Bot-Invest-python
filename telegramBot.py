@@ -35,7 +35,6 @@ from metal_parser import get_metals_now, get_metals_weeks
 /actual_crypto
 """
 
-
 bot = Bot(token=Token_Telegram_bot, parse_mode=types.ParseMode.HTML)
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
